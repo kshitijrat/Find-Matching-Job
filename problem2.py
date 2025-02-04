@@ -21,6 +21,7 @@ def fetch_candidates(f_name):
 # Load employers data from CSV
 def load_employers(f_name):
     emp_list = []
+    
     with open(f_name, 'r') as file:
         reader = csv.DictReader(file)
         for row in reader:
