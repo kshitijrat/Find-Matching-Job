@@ -18,7 +18,6 @@ def fetch_candidates(f_name):
                 "willing_to_move": row['willing_to_move'] == 'True'
             })
     return cand_list
-
 # Load employers data from CSV
 def load_employers(f_name):
     emp_list = []
