@@ -1,0 +1,6 @@
+id,job_desc,location,salary_min,salary_max,education,experience,remote
+1,"Software developer with expertise in Java, Python, and web applications.",New York,80000,120000,Bachelor's,3,False
+2,"Product Manager with experience in leading teams, Agile methodologies, and product strategy.",San Francisco,100000,150000,Master's,5,True
+3,"Data Scientist with expertise in machine learning, Python, and data analysis.",Chicago,90000,130000,Bachelor's,2,False
+4,"UX/UI Designer with proficiency in Figma, Adobe XD, and user experience research.",Los Angeles,70000,100000,Bachelor's,2,True
+5,"Marketing Specialist with expertise in SEO, content strategy, and digital marketing.",Boston,60000,90000,Bachelor's,3,False

@@ -1,0 +1,17 @@
+id,job_desc_exp,location,salary,education,experience,willing_to_move
+1,"Experienced developer with knowledge in Java, Spring Boot, and Python web development.",New York,100000,Bachelor's,4,False
+2,Product manager with experience in agile teams and project management.,Los Angeles,110000,Master's,6,True
+3,"Data scientist with experience in machine learning, deep learning, and Python.",Chicago,120000,Bachelor's,3,True
+4,"UX designer with knowledge in user research, Figma, and Adobe XD.",San Francisco,80000,Bachelor's,2,True
+5,SEO expert with experience in content marketing and social media strategies.,Boston,95000,Bachelor's,4,False
+6,Java and Spring Boot developer with experience in backend services and microservices.,New York,110000,Bachelor's,5,False
+7,Product manager with experience in product life cycle management and stakeholder communication.,San Francisco,125000,Master's,7,True
+8,"Data analyst experienced with Python, R, and statistical data analysis.",Chicago,95000,Bachelor's,2,True
+9,UX designer specializing in interactive design and usability testing.,Los Angeles,70000,Bachelor's,1,True
+10,Marketing manager with digital content strategy expertise and social media marketing.,Boston,85000,Bachelor's,3,False
+11,"Backend developer skilled in Python, Java, and microservices architecture.",San Francisco,115000,Bachelor's,6,False
+12,"Data scientist with a focus on AI, machine learning, and data visualization.",Chicago,130000,Master's,4,False
+13,Digital marketing expert with strong SEO and content creation skills.,Boston,90000,Bachelor's,5,False
+14,"Experienced developer skilled in Node.js, Python, and full-stack web development.",New York,105000,Bachelor's,5,False
+15,Product manager with deep knowledge in Agile development processes.,San Francisco,130000,Master's,6,True
+16,SEO expert with experience in content strategy and online marketing.,Boston,95000,Bachelor's,3,False
